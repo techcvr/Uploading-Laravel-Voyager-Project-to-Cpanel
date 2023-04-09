@@ -41,3 +41,9 @@ $app = require_once __DIR__.'/bootstrap/app.php';
 
 ```
 That's it. Your Voyager admin panel is ready.
+
+
+
+
+###If you are getting error while installing dummy voyager the try th below solution
+https://laracasts.com/discuss/channels/general-discussion/syntax-error-or-access-violation-1071-specified-key-was-too-long
